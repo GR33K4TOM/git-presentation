@@ -1,2 +1,7 @@
 # Hola papus
-hola
+hola 
+este es el README.md
+
+```bash
+$ git 
+```
