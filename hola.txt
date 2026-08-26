@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 r4354gt
 no err
 err
 gg
 wp larps
 
-=======
 dfertr32r
 
 34124
@@ -14,4 +12,4 @@ dfertr32r
 holaet
 err
 asfafo
->>>>>>> main
+
