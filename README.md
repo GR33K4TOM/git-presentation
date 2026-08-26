@@ -1,4 +1,5 @@
 # Hola papus
+<<<<<<< HEAD
 hola 
 este es el README.md
 
@@ -8,3 +9,6 @@ $ git
 ```bash
 $ git diff
 ```
+=======
+hola hola 2
+>>>>>>> main
